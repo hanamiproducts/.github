@@ -6,7 +6,7 @@
 
 <p align="center"><em>Calm, focused tools, made one at a time.</em></p>
 
-Hanami Products is a small, independent software studio: one person, in Belgium. Each product does one job, does it quietly, and leaves the rest of your day alone.
+Hanami Products is a small, independent software studio: one person, in Türkiye. Each product does one job, does it quietly, and leaves the rest of your day alone.
 
 花見 *hanami*: the custom of stopping, for a moment, to look at the blossoms.
 
@@ -18,7 +18,7 @@ Hanami Products is a small, independent software studio: one person, in Belgium.
 | **[Hanami DNA](https://hanomidna.com)** | G25 ancestry, explained plainly. Paste your G25 coordinates and see which ancient and modern reference populations sit closest to you, with cluster maps, mixed origins and a mix builder. Results show genetic similarity to reference samples, not documented family history. | Live |
 | **Hanami Notes** | A note app for stylus and web. | Planned, not built yet |
 
-Prices: the planner's task tree, manual planning and the day check are free; Hanami Planner Plus is €4 a month or €40 a year. Hanami DNA's core analyses are free; premium is €5 every 3 months. No VAT charged (Belgian small-business exemption).
+Prices: the planner's task tree, manual planning and the day check are free; Hanami Planner Plus is €4 a month or €40 a year. Hanami DNA's core analyses are free; premium is €5 every 3 months.
 
 Hanami Planner is a planning tool, not a medical product. Hanami DNA is not a medical or genealogy test.
 
