@@ -7,4 +7,4 @@ Organisation profile for [Hanami Products](https://github.com/hanamiproducts) on
 
 Edit the profile here, open a pull request and merge it; GitHub shows the new text right away.
 
-Keep it in line with the brand-voice guide: plain words, no medical claims, no invented numbers, nothing planned described as built, and no server, port or admin details.
+Keep it short and in line with the brand-voice guide (`brand-voice.md` in the company's social folder, outside this repo): reuse its approved lines word for word, plain words, no medical claims, no invented numbers, nothing planned described as built, and no server, port or admin details.
