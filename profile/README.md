@@ -24,6 +24,10 @@ G25 ancestry, explained plainly. Paste your G25 coordinates and see which ancien
 
 <sub>Hanami Planner is a planning tool, not a medical product. Hanami DNA is not a medical or genealogy test.</sub>
 
+## Open source
+
+**[hanami_agent](https://github.com/samliumay/hanami_agent)**: a terminal AI agent, written from scratch in Rust. A learning project, at a very early stage. The product code in this organisation is private.
+
 ## Write to the studio.
 
 [hello@hanamiproducts.com](mailto:hello@hanamiproducts.com) · help with a product: [support@hanamiproducts.com](mailto:support@hanamiproducts.com)
